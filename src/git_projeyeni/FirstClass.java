@@ -8,6 +8,7 @@ public class FirstClass {
 		System.out.println("ilk local 19.47");
 
 		System.out.println("ücüncü commit 20.08");
+		System.out.println("dorduncu commit ersin den 20.18");
 
 
 	}
